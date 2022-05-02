@@ -1,0 +1,8 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+flask-jwt-extended
+passlib
+gunicorn
+uwsgi
+psycopg2
